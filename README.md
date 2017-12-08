@@ -4,7 +4,7 @@ sudo -H pip3 install tensorflow-1.4.0-cp36-cp36m-linux_x86_64.whl
 to confirm:
 
 python3
-
+```
 import tensorflow as tf
 hello - tf.constant('Hi TF!')
 sess = tf.Session()
